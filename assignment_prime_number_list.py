@@ -9,9 +9,6 @@ The desired output for n=100 :
 61, 67, 71, 73, 79, 83, 89, 97]
 """
 
-
-
-
 n = int(input("a number to make a prime number list : "))
 empty_list = []
 if n > 0:
